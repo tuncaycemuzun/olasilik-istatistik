@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\bin\Debug\Permutasyon.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\bin\Debug\Permutasyon.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\bin\Debug\Permutasyon.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\obj\Debug\Permutasyon.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Permutasyon\Permutasyon\obj\Debug\Permutasyon.pdb
