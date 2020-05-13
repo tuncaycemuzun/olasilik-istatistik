@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\bin\Debug\AritmetikOrtalama.exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\bin\Debug\AritmetikOrtalama.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\bin\Debug\AritmetikOrtalama.pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\obj\Debug\AritmetikOrtalama.csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\obj\Debug\AritmetikOrtalama.csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\obj\Debug\AritmetikOrtalama.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\AritmetikOrtalama\AritmetikOrtalama\obj\Debug\AritmetikOrtalama.pdb
