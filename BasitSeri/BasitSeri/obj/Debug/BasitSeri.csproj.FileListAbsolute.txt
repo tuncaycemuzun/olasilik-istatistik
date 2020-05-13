@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\bin\Debug\BasitSeri.exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\bin\Debug\BasitSeri.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\bin\Debug\BasitSeri.pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\obj\Debug\BasitSeri.csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\obj\Debug\BasitSeri.csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\obj\Debug\BasitSeri.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitSeri\BasitSeri\obj\Debug\BasitSeri.pdb
