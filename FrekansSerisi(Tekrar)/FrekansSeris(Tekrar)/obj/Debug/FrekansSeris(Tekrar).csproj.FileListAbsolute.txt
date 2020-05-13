@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\bin\Debug\FrekansSeris(Tekrar).exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\bin\Debug\FrekansSeris(Tekrar).exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\bin\Debug\FrekansSeris(Tekrar).pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\obj\Debug\FrekansSeris(Tekrar).csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\obj\Debug\FrekansSeris(Tekrar).csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\obj\Debug\FrekansSeris(Tekrar).exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansSeris(Tekrar)\FrekansSeris(Tekrar)\obj\Debug\FrekansSeris(Tekrar).pdb
