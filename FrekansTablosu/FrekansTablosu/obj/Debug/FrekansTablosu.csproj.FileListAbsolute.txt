@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\bin\Debug\FrekansTablosu.exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\bin\Debug\FrekansTablosu.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\bin\Debug\FrekansTablosu.pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\obj\Debug\FrekansTablosu.csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\obj\Debug\FrekansTablosu.csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\obj\Debug\FrekansTablosu.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\FrekansTablosu\FrekansTablosu\obj\Debug\FrekansTablosu.pdb
