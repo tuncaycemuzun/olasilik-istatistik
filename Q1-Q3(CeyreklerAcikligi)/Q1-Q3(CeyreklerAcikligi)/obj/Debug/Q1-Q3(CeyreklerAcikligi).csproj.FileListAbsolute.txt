@@ -1,0 +1,7 @@
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\bin\Debug\Q1-Q3(CeyreklerAcikligi).exe.config
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\bin\Debug\Q1-Q3(CeyreklerAcikligi).exe
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\bin\Debug\Q1-Q3(CeyreklerAcikligi).pdb
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\obj\Debug\Q1-Q3(CeyreklerAcikligi).csprojAssemblyReference.cache
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\obj\Debug\Q1-Q3(CeyreklerAcikligi).csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\obj\Debug\Q1-Q3(CeyreklerAcikligi).exe
+C:\Users\Tuncay\source\repos\Q1-Q3(CeyreklerAcikligi)\Q1-Q3(CeyreklerAcikligi)\obj\Debug\Q1-Q3(CeyreklerAcikligi).pdb
