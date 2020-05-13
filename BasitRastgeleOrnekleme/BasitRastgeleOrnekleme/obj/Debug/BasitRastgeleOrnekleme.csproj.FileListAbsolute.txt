@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\bin\Debug\BasitRastgeleOrnekleme.exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\bin\Debug\BasitRastgeleOrnekleme.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\bin\Debug\BasitRastgeleOrnekleme.pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\obj\Debug\BasitRastgeleOrnekleme.csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\obj\Debug\BasitRastgeleOrnekleme.csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\obj\Debug\BasitRastgeleOrnekleme.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\BasitRastgeleOrnekleme\BasitRastgeleOrnekleme\obj\Debug\BasitRastgeleOrnekleme.pdb
