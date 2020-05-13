@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.pdb
