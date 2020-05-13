@@ -1,0 +1,7 @@
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\bin\Debug\Mod.exe.config
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\bin\Debug\Mod.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\bin\Debug\Mod.pdb
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\obj\Debug\Mod.csprojAssemblyReference.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\obj\Debug\Mod.csproj.CoreCompileInputs.cache
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\obj\Debug\Mod.exe
+B:\Dosyalar\SLAYTLAR\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Mod\Mod\obj\Debug\Mod.pdb
