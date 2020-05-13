@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\bin\Debug\OMS.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\bin\Debug\OMS.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\bin\Debug\OMS.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\obj\Debug\OMS.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\obj\Debug\OMS.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\obj\Debug\OMS.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\OMS\OMS\obj\Debug\OMS.pdb
