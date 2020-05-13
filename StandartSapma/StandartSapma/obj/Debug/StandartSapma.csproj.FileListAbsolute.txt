@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\bin\Debug\StandartSapma.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\bin\Debug\StandartSapma.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\bin\Debug\StandartSapma.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\obj\Debug\StandartSapma.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\obj\Debug\StandartSapma.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\obj\Debug\StandartSapma.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\StandartSapma\StandartSapma\obj\Debug\StandartSapma.pdb
