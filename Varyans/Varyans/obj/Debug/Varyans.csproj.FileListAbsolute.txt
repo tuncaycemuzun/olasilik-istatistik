@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\bin\Debug\Varyans.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\bin\Debug\Varyans.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\bin\Debug\Varyans.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\obj\Debug\Varyans.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\obj\Debug\Varyans.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\obj\Debug\Varyans.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\Varyans\Varyans\obj\Debug\Varyans.pdb
