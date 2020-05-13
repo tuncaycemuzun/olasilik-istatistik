@@ -1,0 +1,7 @@
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\bin\Debug\DegisimKatsayisi.exe.config
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\bin\Debug\DegisimKatsayisi.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\bin\Debug\DegisimKatsayisi.pdb
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\obj\Debug\DegisimKatsayisi.csprojAssemblyReference.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\obj\Debug\DegisimKatsayisi.csproj.CoreCompileInputs.cache
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\obj\Debug\DegisimKatsayisi.exe
+B:\Dosyalar\KTÜ Yazılım Mühendisliği\2.Sınıf\Bahar Dönemi\Olasılık\Ödevler\DegisimKatsayisi\DegisimKatsayisi\obj\Debug\DegisimKatsayisi.pdb
